@@ -11,3 +11,5 @@ A great starting point for a career in cybersecurity.
  ### In this course you cover five Domins 
 
 ![NET](https://591cert.com/wp-content/uploads/2024/11/CompTIA-Security-SY0-701-Exam-Domains-1024x576.jpg)
+
+- **[Domin 1]():** We learn about General security concepts  .
