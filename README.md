@@ -16,4 +16,4 @@ A great starting point for a career in cybersecurity.
 ## - **[Domin 2](https://github.com/sherazi1214/Domin2):** We learn about threats , vulnerabilities and metigation   .
 ## - **[Domin 3](https://github.com/sherazi1214/Domin3):** We learn about Computing Architecture   .
 ## - **[Domin 4](https://github.com/sherazi1214/Domin4):** We learn about Security  Operations  .
-## - **[Domin 5](https://github.com/sherazi1214/Domin4):** We learn about Security  program management  .
+## - **[Domin 5](https://github.com/sherazi1214/Domin5):** We learn about Security  program management  .
